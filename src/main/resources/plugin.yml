@@ -2,3 +2,15 @@ name: NocturneWorlds
 version: '1.0-SNAPSHOT'
 main: me.giveblock.nocturneWorlds.NocturneWorlds
 api-version: '1.21'
+
+commands:
+  nocturneworld:
+    description: 'Default World Command'
+    usage: /<command>
+    aliases:
+      - 'nocworld'
+
+permissions:
+  nocworlds.nocturneworld:
+    description: 'default permission'
+    default: false
