@@ -1,0 +1,4 @@
+name: NocturneWorlds
+version: '1.0-SNAPSHOT'
+main: me.giveblock.nocturneWorlds.NocturneWorlds
+api-version: '1.21'
